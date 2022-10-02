@@ -8,6 +8,7 @@ public class SpringyzApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringyzApplication.class, args);
+        System.out.println("kkkk");
     }
 
 }
